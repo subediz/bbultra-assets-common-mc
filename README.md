@@ -1,0 +1,2 @@
+# bbultra-assets-common
+Assets
