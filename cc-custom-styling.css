@@ -154,7 +154,11 @@
   margin-top: 0.5rem !important;
   margin-bottom: 0.5rem !important;
 }
-  
+
+.mb-auto {
+  margin-bottom: auto;
+}
+
 .p-0 {
   padding:0 !important;
 }
