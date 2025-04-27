@@ -1181,6 +1181,7 @@ figure.comic-strip {
 figure.comic-strip img {
   width: 100%;
   height: auto;
+  object-fit: scale-down;
 }
 
 figure.comic-strip figcaption{
