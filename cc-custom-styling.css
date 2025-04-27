@@ -702,6 +702,10 @@ span.outcome-item {
   min-width: 200px;
 }
 
+.auto-width {
+  width: auto;
+}
+
 .icon-warning-lg {
   /*color: #c13651;*/
   /* color: #8c0c06; */
