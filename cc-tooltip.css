@@ -17,7 +17,8 @@
       left: 50%;
       min-width: 30vw;
       max-width: calc(100vw - 2rem);
-      padding: .75rem 1rem;
+      /* padding: .75rem 1rem; */
+      padding: 0.4rem 1.5rem 0.5rem;
       background: #006b96;
       color: #fff;
       border-radius: 4px;
@@ -25,11 +26,12 @@
       word-wrap: break-word;
       text-align: center;
       font-size: 1rem;
+      line-height: 1.35rem;
       visibility: hidden;
       opacity: 0;
       transition: opacity .25s, transform .25s;
       /* default: sit just above, slide down 6px */
-      bottom: calc(100% + 0.75rem);
+      bottom: calc(100% + 0.35rem);
       transform: translate(-50%, 6px);
     }
 
@@ -80,8 +82,8 @@
 
       .tooltip-text {
         padding: .55rem 1.5rem;
-        min-width: 15ch;
-        max-width: 20ch;
+        min-width: 18ch;
+        max-width: 22ch;
       }
     }
 
