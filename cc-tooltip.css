@@ -18,14 +18,14 @@
       min-width: 30vw;
       max-width: calc(100vw - 2rem);
       /* padding: .75rem 1rem; */
-      padding: 0.4rem 1.5rem 0.5rem;
+      padding: 0.4rem 1rem 0.5rem;
       background: #006b96;
       color: #fff;
       border-radius: 4px;
       white-space: normal;
       word-wrap: break-word;
       text-align: center;
-      font-size: 1rem;
+      font-size: 0.95rem;
       line-height: 1.35rem;
       visibility: hidden;
       opacity: 0;
@@ -77,11 +77,11 @@
     @media (min-width: 600px) {
       body {
         font-family: sans-serif;
-        padding: 240px 40px;
+        /* padding: 240px 40px; */
       }
 
       .tooltip-text {
-        padding: .55rem 1.5rem;
+        /* padding: .55rem 1.25rem; */
         min-width: 18ch;
         max-width: 22ch;
       }
