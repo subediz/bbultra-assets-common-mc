@@ -1,0 +1,27 @@
+<!--
+  This code is a tooltip with a centered arrow that adjusts its position based on the trigger element.
+  It supports both mobile and desktop views, with responsive design and accessibility features.
+  The tooltip can be positioned above or below the trigger element, and it handles edge cases for alignment. 
+  ChatGPT assisted in coding. 
+-->  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/subediz/bbultra-assets-common-mc/cc-tooltip.min.css" />  
+  <script src="https://cdn.jsdelivr.net/gh/subediz/bbultra-assets-common-mc/cc-tooltip.min.js"></script> 
+  <title>Responsive Tooltip with Centered Arrow</title>
+</head>
+<body>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Tap or hover the tooltip:
+    <span class="tooltip" tabindex="0" role="button">
+      CO 1, 2
+      <span class="tooltip-text" role="tooltip" aria-hidden="true">
+        Course Outcome — long text to force wrapping and arrow positioning.
+      </span>
+    </span>
+  </p>
+</body>
+</html>
