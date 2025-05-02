@@ -703,7 +703,7 @@ span.outcome-item {
 }
 
 .auto-width {
-  width: auto;
+  width: auto !important;
 }
 
 .icon-warning-lg {
@@ -1176,6 +1176,7 @@ summary:hover {
 figure.comic-strip {
   margin: auto 0;
   padding-top: 0.5rem;
+  text-align: center;
 }
 
 figure.comic-strip img {
