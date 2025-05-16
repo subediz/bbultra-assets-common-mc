@@ -154,6 +154,9 @@
   margin-left: 0 !important;
 }
 
+.ml-125{
+  margin-left: 1.25em !important;
+}
 .mtb-05 {
   margin-top: 0.5rem !important;
   margin-bottom: 0.5rem !important;
@@ -862,7 +865,7 @@ span.outcome-item {
   color: white;
   font-size: 1rem;
   border: none;
-  padding: 6px 20px;
+  padding: 6px 10px;
   display: inline-block;
   text-align: center;
 }
