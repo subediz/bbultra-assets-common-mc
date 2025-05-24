@@ -1192,7 +1192,7 @@ figure.comic-strip {
 }
 
 figure.comic-strip img {
-  width: 98%;
+  width: 96%;
   height: auto;
   object-fit: scale-down;
 }
