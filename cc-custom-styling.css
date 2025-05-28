@@ -533,6 +533,11 @@ span.outcome-item {
   padding: 0.5rem 1rem;
 }
 
+.peach-box {
+  background: peachpuff;
+  padding: 0.25rem 1rem;
+}
+
 .alert-box {
   padding: 0.5rem 0.75rem;
   border-top-right-radius: 6px;
