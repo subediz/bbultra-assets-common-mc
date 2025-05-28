@@ -232,12 +232,12 @@
 
 .pv-0 {
   padding-left: 0 !important;
-  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 
 .pv-1 {
   padding-left: 1rem !important;
-  padding-left: 1rem !important;
+  padding-right: 1rem !important;
 }
 
 .ph-0 {
@@ -246,8 +246,8 @@
 }
 
 .ph-1 {
-  padding-top: 1 !important;
-  padding-bottom: 1 !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .float-r{
