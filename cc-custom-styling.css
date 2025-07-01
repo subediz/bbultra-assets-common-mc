@@ -794,8 +794,9 @@ span.outcome-item {
 }
 
 .img-profile {
-  width: 200px;
-  height: auto
+  width: 250px;
+  height: auto;
+  border-radius: 8px;
 }
 
 .card-shadow-maxcontent {
@@ -900,11 +901,12 @@ span.outcome-item {
 
 .img-card-maxw {
   max-width: fit-content;
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   border-radius: 8px;
-  box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.3);
+  /*box-shadow: 5px -5px 10px rgba(0, 0, 0, 0.3);*/
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
   margin: 0 auto;
-  padding: 0.5rem 1rem;
+  /*padding: 0.5rem 1rem;*/
 }
 
 .signature-mc {
