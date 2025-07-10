@@ -98,6 +98,10 @@
   font-weight: 600;
 }
 
+lh-15 {
+  line-height: 1.5rem;
+}
+
 .m-0 {
   margin: 0 !important;
 }
