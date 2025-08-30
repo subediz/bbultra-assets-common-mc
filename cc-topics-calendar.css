@@ -99,3 +99,8 @@ tr.double-border-gray>td {
 .hidden {
 	display: none;
 }
+
+.mtb-auto,
+.mlr-auto {
+	margin: auto;
+}
