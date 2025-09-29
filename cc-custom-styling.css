@@ -98,6 +98,12 @@
   font-weight: 600;
 }
 
+.hl-blue {
+  background: #3367d1;
+  color : #fff;
+  padding: 4px;
+}
+
 lh-15 {
   line-height: 1.5rem;
 }
@@ -1324,3 +1330,4 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
