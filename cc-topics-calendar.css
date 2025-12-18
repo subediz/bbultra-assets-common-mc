@@ -69,6 +69,14 @@ tr.double-border-gray>td {
 	border-bottom: 2px solid #666;
 }
 
+tr.double-border-bottom-gray>td {
+	border-bottom: 2px solid #666;
+}
+
+tr.double-border-top-gray>td {
+	border-top: 2px solid #666;
+}
+
 /* Alternating Row Colors */
 .alt {
 	background-color: #f1f8e9;
