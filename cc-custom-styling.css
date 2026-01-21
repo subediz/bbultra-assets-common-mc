@@ -647,6 +647,10 @@ span.outcome-item {
   flex-grow: 1;
 }
 
+.flex-nogrow {
+  flex-grow: 0;
+}
+
 .boxed-gray,
 .boxed-grey {
   border: 1px solid #ddd;
@@ -719,7 +723,7 @@ span.outcome-item {
   align-items: center;
 }
 
-.jstify-center {
+.justify-center {
   justify-content: center;
 }
 
@@ -1330,4 +1334,5 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
