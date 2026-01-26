@@ -400,6 +400,10 @@ span.outcome-item {
   display: inline;
 }
 
+.inline-block {
+  display: inline-block;
+}
+
 .fs-09 {
   font-size:0.9rem;
 }
@@ -1334,5 +1338,6 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
