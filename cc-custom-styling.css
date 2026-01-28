@@ -104,7 +104,7 @@
   padding: 4px;
 }
 
-lh-15 {
+.lh-15 {
   line-height: 1.5rem;
 }
 
@@ -1394,6 +1394,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
