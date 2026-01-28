@@ -368,7 +368,7 @@ span.outcome-item {
 
 /* ===== Large screens ===== */
 @media (min-width: 992px) {
-  .custom-list-comments.list-header {
+  .custom-list-comments > .list-header {
     display: grid !important;
     grid-template-columns: 3fr 1fr;
     gap: 1.5rem;
@@ -1394,6 +1394,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
