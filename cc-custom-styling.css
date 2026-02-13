@@ -84,6 +84,10 @@
   font-size: 1.1rem;
 }
 
+.black-text { 
+	color: #000000; 
+}
+
 .purple-text {
   color: #51237f;
 }
@@ -91,6 +95,18 @@
 .red-text {
 /*   color: #c13651; */
   color: #af0022;
+}
+
+.gray-text {
+  color: #6b7280;
+}
+
+.blue-text {
+  color: #1d4ed8;
+}
+
+.green-text {
+  color: #15803d;
 }
 
 .bold-text {
@@ -1430,6 +1446,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
