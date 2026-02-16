@@ -113,6 +113,11 @@
   font-weight: 600;
 }
 
+.size-small { font-size: 0.875rem; }
+.size-normal { font-size: 1rem; }
+.size-large { font-size: 1.25rem; }
+.size-xlarge { font-size: 1.6rem; }
+
 .hl-blue {
   background: #3367d1;
   color : #fff;
@@ -1446,6 +1451,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
