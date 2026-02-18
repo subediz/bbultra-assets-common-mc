@@ -1169,15 +1169,28 @@ summary:hover {
 
 /* Syllabus */
 .syl-header {
-  /* display: grid; 
+  display: grid; 
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));  
-  grid-gap: 0.5em 2em; */
+  grid-gap: 0.5em 2em;
   padding: 1em 0;
 }
 
-.syl-header p {
-  font-size: 1.25rem;
+.syl-header > .course-title h1 {
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #2967ad;
 }
+.syl-header p {
+  font-size: 1.7rem;
+  margin-bottom: 0;
+}
+
+.syl-header > .course-crns {
+  text-align: right;
+}
+
 /* End General Styles */
 
 
@@ -1451,6 +1464,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
