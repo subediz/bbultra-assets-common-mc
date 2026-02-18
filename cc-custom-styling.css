@@ -89,7 +89,7 @@
 }
 
 .bg-gldrodyellow {
-	background: #fafad2;
+	background: #fafad2 !important;
 }
 
 .black-text { 
@@ -1503,6 +1503,7 @@ kbd{
 	transform:translateY(-1px);
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
+
 
 
 
