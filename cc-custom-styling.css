@@ -1478,13 +1478,24 @@ kbd{
 	color:#6b2e05;
 }
 .ui-button{
-	display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;
-	margin:0 4px;padding:4px 14px 6px;font-size:1em;font-weight:700;line-height:1;
-	border-radius:999px;background:#fff7ed;color:#7c2d12;border:2px solid #92400e;
+	display:inline-flex;
+	align-items:center;
+	justify-content:center;
+	vertical-align:middle;
+	margin:0 4px;
+	padding: 4px 12px;
+	font-size:1em;
+	font-weight:700;
+	line-height:1;
+	border-radius:999px;
+	background:#fff7ed;
+	color:#7c2d12;
+	border:2px solid #92400e;
 	box-shadow:0 1px 2px rgba(0,0,0,.12);
 	transform:translateY(-1px);
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
+
 
 
 
