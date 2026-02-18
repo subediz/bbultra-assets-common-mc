@@ -1166,13 +1166,13 @@ summary:hover {
   text-align: left;
 }
 
-
 /* Syllabus */
 .syl-header {
   display: grid; 
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));  
   grid-gap: 0.5em 2em;
   padding: 1em 0;
+  border-bottom: 1px solid #666;
 }
 
 .syl-header > .course-title h1 {
@@ -1465,6 +1465,7 @@ span.tooltipElt[aria-label='']::after {
 }
 
 /* End of hover-tooltip.css */
+
 
 
 
