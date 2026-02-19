@@ -84,6 +84,10 @@
   font-size: 1.1rem;
 }
 
+.bg-white {
+	background: #ffffff;
+}
+
 .bg-plum {
 	background: #dda0dd;
 }
@@ -1504,6 +1508,7 @@ kbd{
 	transform:translateY(-1px);
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
+
 
 
 
