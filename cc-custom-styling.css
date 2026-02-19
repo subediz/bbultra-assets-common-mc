@@ -89,7 +89,8 @@
 }
 
 .bg-comments {
-	background: #f6d9f6 !important;
+	/* background: #f6d9f6 !important; */
+	background: #f8d2ff !important;
 }
 
 .black-text { 
@@ -1503,6 +1504,7 @@ kbd{
 	transform:translateY(-1px);
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
+
 
 
 
