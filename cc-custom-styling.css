@@ -1542,7 +1542,7 @@ kbd{
   padding: 0.3rem 0.85rem;
   border-radius: 999px;
   border: 1px solid;
-  line-height: 1;
+  line-height: 1rem;
   white-space: nowrap;
 }
 
@@ -1557,4 +1557,5 @@ kbd{
   color: #154c2b;        /* darker green for contrast */
   border-color: #9fc9aa;
 }
+
 
