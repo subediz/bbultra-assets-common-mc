@@ -92,6 +92,18 @@
 	background: #dda0dd;
 }
 
+.bg-ltplum {
+	background: #f2e6f7;
+}
+
+.bg-sage {
+	background: #dda0dd;
+}
+
+.bg-comments-completed {
+	background: #e9ffee !important;
+}
+
 .bg-comments {
 	/* background: #f6d9f6 !important; */
 	background: #f8d2ff !important;
@@ -120,6 +132,10 @@
 
 .green-text {
   color: #15803d;
+}
+
+.darkgreen-text {
+  color: #155724;
 }
 
 .bold-text {
@@ -1556,6 +1572,22 @@ kbd{
   background-color: #e8f5e9;
   color: #154c2b;        /* darker green for contrast */
   border-color: #9fc9aa;
+}
+
+.complete-btn {
+  background: #eee;
+  border: none;
+  cursor: pointer;
+}
+
+.completed .complete-btn {
+  background: #d4edda;
+  color: #155724;
+}
+
+.completed .required-tag {
+  background: #d4edda;
+  color: #155724;
 }
 
 
