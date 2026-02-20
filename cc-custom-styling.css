@@ -1513,25 +1513,43 @@ kbd{
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
 
+/* Generic reusable flex container */
+.flex-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
 
+.flex-header h4 {
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
 
+/* Base Tag */
+.tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.3rem 0.85rem;
+  border-radius: 999px;
+  border: 1px solid;
+  line-height: 1;
+  white-space: nowrap;
+}
 
+.required-tag {
+  background-color: #fdecea;
+  color: #7a1414;        /* slightly darker for contrast */
+  border-color: #d88a8a;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.optional-tag {
+  background-color: #e8f5e9;
+  color: #154c2b;        /* darker green for contrast */
+  border-color: #9fc9aa;
+}
