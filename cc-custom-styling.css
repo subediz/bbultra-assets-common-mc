@@ -1577,7 +1577,7 @@ kbd{
 
 .complete-btn {
   background: #eee;
-  border: none;
+  /*border: none;*/
   cursor: pointer;
 }
 
@@ -1590,6 +1590,7 @@ kbd{
   background: #d4edda;
   color: #155724;
 }
+
 
 
 
