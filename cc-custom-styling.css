@@ -514,6 +514,10 @@ span.outcome-item {
   font-size: 2rem;
 }
 
+.line-1 {
+  line-height: 1rem;
+}
+
 .line-15 {
   line-height: 1.5rem;
 }
@@ -1553,3 +1557,4 @@ kbd{
   color: #154c2b;        /* darker green for contrast */
   border-color: #9fc9aa;
 }
+
