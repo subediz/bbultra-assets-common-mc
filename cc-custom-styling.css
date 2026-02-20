@@ -792,6 +792,10 @@ span.outcome-item {
   border-bottom: 1px solid #ddd;
 }
 
+.border-b-darkgray-1 {
+  border-bottom: 1px solid #bdb4b4;
+}
+
 .b-radius-8 {
   border-radius: 8px;
 }
@@ -1508,6 +1512,7 @@ kbd{
 	transform:translateY(-1px);
 }
 .ui-button.secondary{background:#fffefa;border-color:#b45309;color:#78350f;}
+
 
 
 
