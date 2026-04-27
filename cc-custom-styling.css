@@ -1208,7 +1208,8 @@ summary:hover {
   border-top: 2px solid #666666;
 }
 .total-points, .grade {
-  color: #169179;
+  /*color: #169179;*/
+  color: #065143;
 }
 .comments {
   text-align: left;
