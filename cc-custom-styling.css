@@ -839,6 +839,14 @@ span.outcome-item {
   border-bottom: 1px solid #bdb4b4;
 }
 
+.border-t-mediumgray-2 {
+  border-top: 2px solid #666666;
+}
+
+.border-b-mediumgray-2 {
+  border-bottom: 2px solid #666666;
+}
+
 .b-radius-8 {
   border-radius: 8px;
 }
@@ -1213,12 +1221,12 @@ summary:hover {
 .grade-info-table tr {
   height: 43.5px;
 }
-.grade-info-table tr:nth-child(odd) {
+/*.grade-info-table tr:nth-child(odd) {
   border-bottom: 2px solid #666666;
 }
 .grade-info-table tr:last-child {
   border-top: 2px solid #666666;
-}
+}*/
 .total-points, .grade {
   /*color: #169179;*/
   color: #065143;
