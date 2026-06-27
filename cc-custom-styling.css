@@ -160,6 +160,10 @@
   color: #155724;
 }
 
+.crimson-red {
+	color: #dc3545;
+}
+
 .bold-text {
   font-weight: 600;
 }
@@ -1628,10 +1632,4 @@ kbd{
   background: #d4edda;
   color: #155724;
 }
-
-
-
-
-
-
 
