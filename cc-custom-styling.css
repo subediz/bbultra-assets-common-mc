@@ -96,6 +96,12 @@
   font-size: 1.1rem;
 }
 
+.section-item h4,
+.section-item h5 {
+  margin: 0 0 0.5em;
+  font-size: 1rem;
+}
+
 .bg-white {
 	background: #ffffff;
 }
